@@ -85,3 +85,7 @@ Contributions are welcome! For major changes, please open an issue first to disc
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for more details.
+
+## Link
+- **Simulasi Pengujian di YouTube:** [Tonton di sini](https://youtu.be/24LNUAdggus)
+- **Spreadsheet Skenario Pengujian:** [Lihat di sini](https://docs.google.com/spreadsheets/d/1tdmNTWGKxZSn9nqFF60zWeyZ5ji7yuHsDutQiByJGbs/edit?gid=1510868219#gid=1510868219)
